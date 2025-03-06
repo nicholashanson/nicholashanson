@@ -1,1 +1,1 @@
-# 👋 Hi, I'm Nick.
+👋 Hi, I'm Nick.
