@@ -11,8 +11,8 @@ Fluxion (fluid_simulation) 🌀:
 Most of my coding time is currently spent here. The goals of the project are to:
 
 🔹 Get to real-time rendering for simple fluid simulations and as close to real-time as possible for more complex simulations using run-of-the-mill hardware.
-
-🔹 Be as composable as possible with support for all different kinds of solvers. These are fairly ambitious goals, and this is really intended to be a very long-term project. There is only support for LBM at the moment.
+🔹 Be as composable as possible with support for all different kinds of solvers. 
+These are fairly ambitious goals, and this is really intended to be a very long-term project. There is only support for LBM at the moment.
 
 Most of my time so far has been spent on the infrastructure of the project (environment set-up, GPU acceleration set-up, profiling etc.) rather than building out the actual solvers.
 
