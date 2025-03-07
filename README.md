@@ -4,9 +4,7 @@ I'm a software engineer who loves building cool stuff 💻.
 
 I'm obsessed with my code — maybe you can relate? 😅 My head is always full of a hundred ways it can be improved: more modular, more readable, more testable, more optimized... I should go touch some grass 🌱.
 
-Projects I'm currently obsessing over:
-
-Fluxion (fluid_simulation) 🌀:
+Projects I'm currently obsessing over:<br>Fluxion (fluid_simulation) 🌀:
 
 Most of my coding time is currently spent here. The goals of the project are to:
 
