@@ -1,1 +1,1 @@
-My knowledge and passions are broad — from embedded systems to fluid simulation — but the common thread is that I love writing low-level software in C/C++ with a focus on correctness, performance, and test-driven design.
+My current focus is trying to gain expert-level knowledge in ARM Cortex platforms. 
